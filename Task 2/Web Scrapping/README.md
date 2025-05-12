@@ -21,7 +21,7 @@ A simple web scraper that collects inspirational and thought-provoking quotes fr
 
 ## Technologies Used
 
-- Python 3.x
+- Python 3.13
 - BeautifulSoup4
 - Requests
 - Pandas (optional)
